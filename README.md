@@ -9,7 +9,7 @@ The Covid-19 pandemic, has largely highlighted pathologies in many systems such 
 In Greece, the Hellenic Ministry of Health, on the official website about Covid-19 through the page "Myths about Covid-19" (website: https://covid19.gov.gr/mythoi-covid19/) introduced all the misinformation sentences that were released during Covid-19 pandemic.
 
 <p align="center">
-  <img src="https://github.com/geolamprou/Covid19_Misinfo_in_Greece/blob/main/Myths_about_Covid19_gov_gr.png" width="500" height="330" >
+  <img src="https://github.com/geolamprou/Covid19_Misinfo_in_Greece/blob/main/Myths_about_Covid19_gov_gr.png" width="600" height="530" >
 </p>
 
 As you can see, from this the data gathering, management, processing, and analysis is a little difficult part. So, the current project, presents the "Govgr_Covid19_Misinfo" dataset. This dataset (.xlsx mode) is the structured and easily manageable format of the above page. It contains the following variables: 
