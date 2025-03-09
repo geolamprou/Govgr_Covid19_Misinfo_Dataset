@@ -1,7 +1,7 @@
 ### Misinformation during the Pandemic Covid-19 in Greece - The Dataset: "Govgr_Covid19_Misinfo"
 
 <p align="center">
-  <img src="https://github.com/geolamprou/Covid19_Misinfo_in_Greece/blob/main/covid19%20misinfo.jpg" width="600" height="330" >
+  <img src="https://github.com/geolamprou/Covid19_Misinfo_in_Greece/blob/main/images_for_readme/covid19%20misinfo.jpg" width="600" height="330" >
 </p>
 
 The Covid-19 pandemic, has largely highlighted pathologies in many systems such as health systems, as well as the misinformation phenomenon. People recieved and transmitted a wide variety of false or distorted information about Sars-Cov-2 virus, Covid-19' s protection and Covid-19 vaccines. Social Media like X (former Twitter), Facebook or Instagram were the main source of misinformation's spread. The majority of countries around the world in cooperation with the Mass Media developed specific policies to filter and ban the incorrect information either by manpower or by using algorithms. 
@@ -9,7 +9,7 @@ The Covid-19 pandemic, has largely highlighted pathologies in many systems such 
 In Greece, the Hellenic Ministry of Health, on the official website about Covid-19 through the page "Myths about Covid-19" (website: https://covid19.gov.gr/mythoi-covid19/) introduced all the misinformation sentences that were released during Covid-19 pandemic.
 
 <p align="center">
-  <img src="https://github.com/geolamprou/Covid19_Misinfo_in_Greece/blob/main/Myths_about_Covid19_gov_gr.png" width="600" height="530" >
+  <img src="https://github.com/geolamprou/Covid19_Misinfo_in_Greece/blob/main/images_for_readme/Myths_about_Covid19_gov_gr.png" width="600" height="530" >
 </p>
 
 As you can see, from this the data gathering, management, processing, and analysis is a little difficult part. So, the current project, presents the "Govgr_Covid19_Misinfo" dataset. This dataset (.xlsx mode) is the structured and easily manageable format of the above page. It contains the following variables: 
