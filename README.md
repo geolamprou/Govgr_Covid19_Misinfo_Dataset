@@ -22,7 +22,7 @@ As you can see, from this the data gathering, management, processing, and analys
 6. vacc_timing: Timing relative to vaccine discovery
 7. truth: The truth sentence of each incorrect sentence. It is worth to be noticed that all the truth sentences were written by a member of the Greek Commitee of Infectious Disease.
 
-You can download the "Govgr_Covid19_Misinfo" dataset in Greek or English here: https://github.com/geolamprou/Covid19_Misinfo_in_Greece/tree/main/Datasets 
+You can download the "Govgr_Covid19_Misinfo" dataset in Greek or English from the following link: https://github.com/geolamprou/Covid19_Misinfo_in_Greece/tree/main/Datasets 
 
 Furthermore, based on this dataset, it is presented a report about misinformation in Greece, including interesting graphs and insights. Ypu can read this report in both Greek and English language by following the next links:
 1. Report in Greek:
