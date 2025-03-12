@@ -15,8 +15,8 @@ In Greece, the Hellenic Ministry of Health, on the official website about Covid-
 As you can see, from this the data gathering, management, processing, and analysis is a little difficult part. So, the current project, presents the "Govgr_Covid19_Misinfo" dataset. This dataset (.xlsx mode) is the structured and easily manageable format of the above page. It contains the following variables: 
 
 1. id: Id number
-2. myths: The misiformation sennteces
-3. subject: The subject of each sentence (e.x. vaccine, antiobiotics, weather conditions etc.)
+2. myths: The misinformation senntences
+3. subject: The subject of each sentence (e.x. vaccine, antibiotics, weather conditions etc.)
 4. aim: The main target of each sentence (e.x. protection - treatment from the virus, vaccine efficiency
 5. date: Date of recording
 6. vacc_timing: Timing relative to vaccine discovery
