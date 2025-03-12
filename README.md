@@ -20,7 +20,7 @@ As you can see, from this the data gathering, management, processing, and analys
 4. aim: The main target of each sentence (e.x. protection - treatment from the virus, vaccine efficiency
 5. date: Date of recording
 6. vacc_timing: Timing relative to vaccine discovery
-7. truth: The truth sentence of each incorrect sentence. It is worth to be noticed that all the truth sentences were written by a member of the Greek Commitee of Infectious Disease.
+7. truth: The truth sentence of each incorrect sentence. It is worth to be noticed that all the truth sentences were written by a member of the Greek Commmitee of Infectious Disease.
 
 You can download the "Govgr_Covid19_Misinfo" dataset in Greek or English from the following link: https://github.com/geolamprou/Covid19_Misinfo_in_Greece/tree/main/Datasets 
 
