@@ -26,7 +26,7 @@ You can download the "Govgr_Covid19_Misinfo" dataset in Greek or English from th
 
 Furthermore, based on this dataset, it is presented a report about misinformation in Greece, including interesting graphs and insights. Ypu can read this report in both Greek and English language by following the next links:
 1. Report in Greek: https://github.com/geolamprou/Covid19_Misinfo_in_Greece/blob/main/Reports/Govgr_Covid19_Misinfo_Report_greek.pdf
-2. Report in English:
+2. Report in English: https://github.com/geolamprou/Covid19_Misinfo_in_Greece/blob/main/Reports/Govgr_Covid19_Misinfo_Report_english.pdf
 
 Finally, if you have any questions or proposals for future work, feel free to communicate.
 
