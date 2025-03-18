@@ -1,7 +1,7 @@
 ### Misinformation during the Pandemic Covid-19 in Greece - The Dataset: "Govgr_Covid19_Misinfo"
 
 <p align="center">
-  <img src="https://github.com/geolamprou/Govgr_Covid19_Misinfo_Dataset/blob/main/Graphs%20in%20English/Wordcloud%20of%20misinfo%20proposals.png" width="600" height="430" >
+  <img src="https://github.com/geolamprou/Govgr_Covid19_Misinfo_Dataset/blob/main/Graphs%20in%20English/Wordcloud%20of%20misinfo%20proposals.png" width="1000" height="530" >
 </p>
 
 The Covid-19 pandemic, has largely highlighted pathologies in many systems such as health systems, as well as the misinformation phenomenon. People recieved and transmitted a wide variety of false or distorted information about Sars-Cov-2 virus, Covid-19' s protection and Covid-19 vaccines. Social Media like X (former Twitter), Facebook or Instagram were the main source of misinformation's spread. The majority of countries around the world in cooperation with the Mass Media developed specific policies to filter and ban the incorrect information either by manpower or by using algorithms. 
